@@ -1,0 +1,28 @@
+# campos JSON
+FINAL_RESULT_JSON = {}
+JSON_INGRESO_PAGINA_HTTP_CODE = 'pagina_principal_http_code'
+JSON_INGRESO_PAGINA_TIEMPO_TOTAL_SEG = 'pagina_principal_tiempo_total_seg'
+JSON_INGRESO_PAGINA_STATUS_VALIDACION = 'pagina_principal_status_validacion'
+JSON_INGRESO_PAGINA_MSG_ERROR = 'pagina_principal_msg_error'
+
+JSON_INICIO_SESION_TIEMPO_TOTAL_SEG = 'inicio_sesion_tiempo_total_seg'
+JSON_INICIO_SESION_STATUS_VALIDACION = 'inicio_sesion_status_validacion'
+JSON_INICIO_SESION_MSG_ERROR = 'inicio_sesion_msg_error'
+
+JSON_INGRESO_SECCION_LIBRARIES_TIEMPO_TOTAL_SEG = 'ingreso_seccion_libraries_tiempo_total_seg'
+JSON_INGRESO_SECCION_LIBRARIES_STATUS_VALIDACION = 'ingreso_seccion_libraries_status_validacion'
+JSON_INGRESO_SECCION_LIBRARIES_MSG_ERROR = 'ingreso_seccion_libraries_msg_error'
+
+JSON_INGRESO_SECCION_ADMINISTRATION_TIEMPO_TOTAL_SEG = 'ingreso_seccion_administration_tiempo_total_seg'
+JSON_INGRESO_SECCION_ADMINISTRATION_STATUS_VALIDACION = 'ingreso_seccion_administration_status_validacion'
+JSON_INGRESO_SECCION_ADMINISTRATION_MSG_ERROR = 'ingreso_seccion_administration_msg_error'
+
+JSON_INGRESO_SECCION_MONITOR_TIEMPO_TOTAL_SEG = 'ingreso_seccion_monitor_tiempo_total_seg'
+JSON_INGRESO_SECCION_MONITOR_STATUS_VALIDACION = 'ingreso_seccion_monitor_status_validacion'
+JSON_INGRESO_SECCION_MONITOR_MSG_ERROR = 'ingreso_seccion_monitor_msg_error'
+
+JSON_INGRESO_SECCION_MORE_TIEMPO_TOTAL_SEG = 'ingreso_seccion_more_tiempo_total_seg'
+JSON_INGRESO_SECCION_MORE_STATUS_VALIDACION = 'ingreso_seccion_more_status_validacion'
+JSON_INGRESO_SECCION_MORE_MSG_ERROR = 'ingreso_seccion_more_msg_error'
+
+JSON_TOTAL_TIME_EXECUTION_UX = 'total_execution_ux'

@@ -1,0 +1,22 @@
+{
+  "parametros_portal_vcloud": {
+    "url_portal_principal": "",
+    "user": "",
+    "password": ""
+  },
+  "parametros_selenium_docker": {
+    "ip_docker_host_selenium": "",
+    "port_docker_host_selenium": "4444"
+  },
+  "parametros_zabbix": {
+    "ip_server_zabbix": "",
+    "zabbix_host_monitoring": "",
+    "zabbix_host_key": ""
+  },
+  "parametros_timeouts": {
+    "timeout_render_html_inputs": 120
+  },
+  "parametros_selenium": {
+    "headless": false
+  }
+}
